@@ -1,2 +1,2 @@
 #!/bin/bash
-wc -l iacta
+cut -d, -f 3 iacta
